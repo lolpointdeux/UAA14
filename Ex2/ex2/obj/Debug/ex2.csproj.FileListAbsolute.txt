@@ -1,0 +1,7 @@
+F:\PROGRA 6TI 2023\Ex2\ex2\bin\Debug\ex2.exe
+F:\PROGRA 6TI 2023\Ex2\ex2\bin\Debug\ex2.pdb
+F:\PROGRA 6TI 2023\Ex2\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+F:\PROGRA 6TI 2023\Ex2\ex2\obj\Debug\ex2.csproj.SuggestedBindingRedirects.cache
+F:\PROGRA 6TI 2023\Ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+F:\PROGRA 6TI 2023\Ex2\ex2\obj\Debug\ex2.exe
+F:\PROGRA 6TI 2023\Ex2\ex2\obj\Debug\ex2.pdb
