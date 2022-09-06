@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Td1iCyREwLnf+WNJ3UACeQsTZUNOT17aLlS0wpmggwnTpz9yecNPKB8lzVrqOUQMV4gyRcVN7IczM6XNPddhZA==",
+  "success": true,
+  "projectFilePath": "F:\\PROGRA 6TI 2023\\UAA14-main\\UAA14-main\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rioli\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rioli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rioli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rioli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
