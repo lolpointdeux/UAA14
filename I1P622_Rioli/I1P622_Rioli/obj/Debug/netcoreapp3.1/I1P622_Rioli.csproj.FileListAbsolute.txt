@@ -1,0 +1,5 @@
+C:\Users\180150\Downloads\I1P622_Rioli\I1P622_Rioli\obj\Debug\netcoreapp3.1\I1P622_Rioli.csproj.AssemblyReference.cache
+C:\Users\180150\Downloads\I1P622_Rioli\I1P622_Rioli\obj\Debug\netcoreapp3.1\I1P622_Rioli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180150\Downloads\I1P622_Rioli\I1P622_Rioli\obj\Debug\netcoreapp3.1\I1P622_Rioli.AssemblyInfoInputs.cache
+C:\Users\180150\Downloads\I1P622_Rioli\I1P622_Rioli\obj\Debug\netcoreapp3.1\I1P622_Rioli.AssemblyInfo.cs
+C:\Users\180150\Downloads\I1P622_Rioli\I1P622_Rioli\obj\Debug\netcoreapp3.1\I1P622_Rioli.csproj.CoreCompileInputs.cache
